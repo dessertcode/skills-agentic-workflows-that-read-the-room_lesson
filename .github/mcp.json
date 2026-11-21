@@ -12,7 +12,7 @@
         "compile",
         "audit",
         "logs",
-        "mcp-inspect",
+        "inspect",
         "status",
         "audit-diff",
         "work-queue",
